@@ -13,7 +13,7 @@ h2 {
     flex-wrap: wrap;
     gap: 20px;
     margin: 25px;
-   
+    background-image: url("../assets/img-2.jpg");
   }
   
   /* Individual card */
