@@ -3,7 +3,7 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import AboutMe from './pages/Home'
 import Contact from './pages/Contact'
 import Portfolio from './pages/Portfolio'
-import Resume from './pages/Resume'
+import Resume from './pages/Resume' 
 
 function App() {
   return (
