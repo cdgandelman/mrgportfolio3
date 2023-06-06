@@ -1,0 +1,36 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Align form to the top */
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    background-image: url('../assets/contactimg.jpg');
+    background-size: cover; /* Use cover to fill the container */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Set the container to full viewport height */
+    padding-top: 100px; /* Add top padding for the navbar */
+    padding-bottom: 50px; /* Add bottom padding for the footer */
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .form input,
+  .form textarea {
+    width: 300px; /* Adjust the width as needed */
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .error-text {
+    color: red;
+  }
+  

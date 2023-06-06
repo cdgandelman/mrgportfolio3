@@ -1,0 +1,38 @@
+.hero-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: calc(100vh - 100px); /* Adjust the value based on the footer height */
+  color: white;
+  text-align: center;
+  padding-top: 100px; /* Adjust the padding as needed */
+}
+
+.hero-container h1 {
+  font-size: 3rem; /* Increase the font size as needed */
+}
+
+.hero-container p {
+  margin-top: 1rem;
+  font-size: 1.5rem; /* Increase the font size as needed */
+  margin: 15px;
+}
+
+.hero-container .portrait {
+  margin-top: 1rem; /* Adjust the margin as needed */
+  width: 300px; /* Adjust the width as needed */
+  height: auto;
+  max-width: 100%;
+}
+
+.hero-container video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
