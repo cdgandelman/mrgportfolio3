@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mrgportfolio3/static/css/main.43aaf1cb.css",
+    "main.js": "/mrgportfolio3/static/js/main.e0c48831.js",
+    "static/js/787.6b8f8da5.chunk.js": "/mrgportfolio3/static/js/787.6b8f8da5.chunk.js",
+    "static/media/video-1.mp4": "/mrgportfolio3/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/contactimg.jpg": "/mrgportfolio3/static/media/contactimg.f53307ec2762e2a39cbb.jpg",
+    "static/media/img-2.jpg": "/mrgportfolio3/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/screenshot.jpeg": "/mrgportfolio3/static/media/screenshot.8ffc502b98d669fbf525.jpeg",
+    "static/media/ImageSearch1.PNG": "/mrgportfolio3/static/media/ImageSearch1.1e63198a7d581db1e8bb.PNG",
+    "static/media/me.JPG": "/mrgportfolio3/static/media/me.cefb52b50961f8530231.JPG",
+    "static/media/Workday1.JPG": "/mrgportfolio3/static/media/Workday1.b994332db8fa6c60608c.JPG",
+    "static/media/Resume.pdf": "/mrgportfolio3/static/media/Resume.efb021ade26c280d2e4a.pdf",
+    "static/media/Notetaker.PNG": "/mrgportfolio3/static/media/Notetaker.79f8a33bea6c2f962f4b.PNG",
+    "index.html": "/mrgportfolio3/index.html",
+    "main.43aaf1cb.css.map": "/mrgportfolio3/static/css/main.43aaf1cb.css.map",
+    "main.e0c48831.js.map": "/mrgportfolio3/static/js/main.e0c48831.js.map",
+    "787.6b8f8da5.chunk.js.map": "/mrgportfolio3/static/js/787.6b8f8da5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43aaf1cb.css",
+    "static/js/main.e0c48831.js"
+  ]
+}
